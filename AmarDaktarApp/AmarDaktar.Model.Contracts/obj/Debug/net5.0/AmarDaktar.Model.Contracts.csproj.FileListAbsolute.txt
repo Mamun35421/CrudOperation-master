@@ -1,0 +1,48 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.deps.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.deps.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfo.cs
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.deps.json
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.AssemblyReference.cache
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfoInputs.cache
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.AssemblyInfo.cs
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.csproj.CoreCompileInputs.cache
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\ref\AmarDaktar.Model.Contracts.dll
+D:\Asif Vai\CrudOperation-master\CrudOperation-master\AmarDaktarApp\AmarDaktar.Model.Contracts\obj\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
