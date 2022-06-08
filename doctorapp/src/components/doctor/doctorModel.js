@@ -1,7 +1,7 @@
 export default class Doctor{
     id=0;
     name="";
-    gender = "";
+   
     degree="";
     yearsOfExperience=0;
     phoneNo="";
