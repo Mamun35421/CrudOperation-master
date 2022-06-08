@@ -1,6 +1,7 @@
 export default class Doctor{
     id=0;
     name="";
+    gender = "";
     degree="";
     yearsOfExperience=0;
     phoneNo="";
@@ -10,6 +11,7 @@ export default class Doctor{
     deletedById=0;
     deletedOn="2019-01-06T17:16:40";
     isApproved = false;
+ 
     
    
     

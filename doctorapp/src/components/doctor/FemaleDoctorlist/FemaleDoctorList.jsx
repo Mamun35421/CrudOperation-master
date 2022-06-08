@@ -1,69 +1,66 @@
-
-import React, { Component, useEffect, useState } from 'react';
-
-
-import { useToasts } from "react-toast-notifications";
-
-
+import React, {  useEffect, useState } from 'react';
 import * as doctorService from "../../../services/doctorService";
-import FemaleDCreate from '../femaleDoctor/FemaleDCreate';
-
-
+import FemaleDoctorAdd from '../femaleDoctor/FemaleDCreate';
 
 const FemaleDoctorList = () => {
-    const { addToast } = useToasts();
-    const [fdoctorList,setFdoctorList]=useState([]);
-    const [currentId, setCurrentId] = useState(0)
+
+  
+    const [doctorList,setDoctorList]=useState([]);
+    console.log(doctorList)
+   
     
     useEffect(()=>{
         doctorService.GetAll()
         .then(res=>{
            
-            setFdoctorList(res.data)
+            setDoctorList(res.data)
         })
-        .catch(err=>{
-            addToast("Unable To Get", {
-                appearance: "error",
-                autoDismiss: true
-            });
-        })
+    },[doctorList])
+
+
+ 
+
+
     
-    },[fdoctorList])
-
-
     return(
         <div className='row'>
           <div className='col-md-4'>
-              <FemaleDCreate {...({ currentId, setCurrentId,fdoctorList })} />
+              <FemaleDoctorAdd {...({ doctorList })} />
              
           </div>
           <div className='col-md-8'>
             <div className='card'>
-            <h2 style={{margin:'auto',padding:'8px'}}>Female Doctor List</h2>
+            <h2 style={{margin:'auto',padding:'8px'}}> Female Doctor List</h2>
             </div>
          
           <table className="table table-striped">
       <thead>
         <tr>
           <th>Name</th>
+       
           <th>Degree</th>
-        
-         
+       
+          
         </tr>
       </thead>
       <tbody>
-          {fdoctorList.map(doctor=>(
+          {doctorList.map(doctor=>(
             <tr key={doctor.id}>
-              <td>{doctor.name}</td>
-              <td>{doctor.degree}</td>
-             
             
+              <td>{doctor.name}</td>
+          
+              <td>{doctor.degree}</td>
+              
+            
+              <td>    
+
+                         
+              </td>
 
               
             </tr>
           ))}
         
-      
       </tbody>
             </table>
          </div>

@@ -42,6 +42,7 @@ const DoctorAdd = (props) => {
 
 
     const saveDoctor = (e) => {
+        console.log(saveDoctor)
        
         e.preventDefault();
 
