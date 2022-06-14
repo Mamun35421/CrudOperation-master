@@ -12,7 +12,9 @@ import DoctorAdd from '../DoctorCreate/doctorCreate';
 const DoctorList = () => {
     const { addToast } = useToasts();
     const [doctorList,setDoctorList]=useState([]);
-    const [currentId, setCurrentId] = useState(0)
+    const [currentId, setCurrentId] = useState(0);
+
+ 
     
     useEffect(()=>{
         doctorService.GetAll()

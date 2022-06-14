@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState ,useEffect} from 'react';
 import Doctor from '../doctorModel';
 import * as doctorService from "../../../services/doctorService";
 const FemaleDoctorAdd = (props) => {
@@ -33,14 +33,16 @@ const FemaleDoctorAdd = (props) => {
 
     }
 
-    const saveDoctor = (e) => {
+    const saveFemaleDoctor = (e) => {
+        console.log(saveFemaleDoctor)
       
         e.preventDefault();
 
         if (validate()) {
           
-          
-                doctorService.Add(doctorModel)
+             if (props.currentId == 0)
+              {  
+                  doctorService.Add(doctorModel)
                 .then(res=>{
                     alert("Submitted successfully", {
                         appearance: "success",
@@ -55,7 +57,8 @@ const FemaleDoctorAdd = (props) => {
                         autoDismiss: true
                     });
                 })
-               
+
+               }
          
 
         }
@@ -72,6 +75,15 @@ const FemaleDoctorAdd = (props) => {
        
         validate(fieldsValue)
     }
+
+    useEffect(() => {
+        if (props.currentId != 0) {
+            var temp = props.doctorList.find((x) => x.id == props.currentId)
+            setDoctorModel(temp);
+          
+        }
+      }, [props.currentId]);
+
 
   
 
@@ -116,7 +128,7 @@ const FemaleDoctorAdd = (props) => {
                 
                 </div>
                 <div className="form-group" style={{marginTop:'5px'}}>
-                <button className="btn btn-danger" onClick={saveDoctor}>Save</button>
+                <button className="btn btn-danger" onClick={saveFemaleDoctor}>Save</button>
                 </div>
                 </form>
         </div>
